@@ -1,7 +1,7 @@
 
 repository is mainatined by Ayesha Nirma and Hasan Nirma
 
-This is **unofficial code/implementation** is available for research purposes. If you are using this code for your work, please cite the following paper
+This is **unofficial code/implementation** is available for research purposes. If you are using this code for your work, please cite the following papers
 
 @InProceedings{Hasan_2018_CVPR,
 author = {Hasan, Irtiza and Setti, Francesco and Tsesmelis, Theodore and Del Bue, Alessio and Galasso, Fabio and Cristani, Marco},
@@ -10,6 +10,7 @@ booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVP
 month = {June},
 year = {2018}
 }
+
 
 
 
@@ -26,7 +27,6 @@ Testing
 3) Chnage the name of the model to load in evalLSTM.m
 4) You can also plot prediction on the images, download the images and specify tha path in evalLStm.m and set genVisualization=1 
 
-Evaluation
 Evaluation is done using matlab script evallstm.m
 
 
