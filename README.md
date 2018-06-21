@@ -1,5 +1,5 @@
 
-repository is mainatined by Ayesha Nirma and Hasan Nirma
+Repository is mainatined by Ayesha Nirma and Hasan Nirma
 
 This is **unofficial code/implementation** is available for research purposes. If you are using this code for your work, please cite the following papers
 
